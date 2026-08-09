@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-ollama
+ollama
+pydantic
+typing_extensions
